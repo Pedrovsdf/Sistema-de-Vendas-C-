@@ -1,0 +1,137 @@
+CREATE DATABASE IF NOT EXISTS projeto;
+
+USE projeto;
+
+CREATE TABLE funcionario (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL COMMENT 'Nome completo do funcionário',
+    email VARCHAR(100) NOT NULL UNIQUE COMMENT 'Endereço de e-mail do funcionário',
+    senha VARCHAR(255) NOT NULL COMMENT 'Senha hash do funcionário',
+    cpf VARCHAR(14) NOT NULL UNIQUE COMMENT 'Número do CPF do funcionário',
+    bairro VARCHAR(100) COMMENT 'Bairro onde o funcionário reside',
+    cep VARCHAR(10) COMMENT 'CEP do endereço do funcionário',
+    cidade VARCHAR(100) COMMENT 'Cidade onde o funcionário reside',
+    numero VARCHAR(10) COMMENT 'Número do endereço do funcionário',
+    uf CHAR(2) COMMENT 'Sigla do estado onde o funcionário reside',
+    carteira VARCHAR(20) COMMENT 'Número da carteira de trabalho do funcionário',
+    telefone VARCHAR(20) COMMENT 'Número de telefone do funcionário',
+    cargo VARCHAR(50) COMMENT 'Cargo do funcionário',
+    aniversario VARCHAR(10) COMMENT 'Data de nascimento do funcionário',
+    nivel_acesso INT COMMENT 'Nível de acesso do funcionário',
+    salario DECIMAL(10, 2) COMMENT 'Salário do funcionário',
+
+    INDEX idx_nome (nome),
+    INDEX idx_email (email)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+INSERT INTO funcionario (
+    Id, nome, email, senha, cpf, bairro, cep, cidade, numero, uf, carteira, telefone, cargo, aniversario, nivel_acesso, salario
+) VALUES (
+    '1', -- ID do funcionário (atenção para IDs únicos)
+    'aasdadadadadsadad', -- Nome do funcionário
+    'admin', -- E-mail do funcionário
+    '5CRdQfkTBDvEmtPvVcSJJsWNlQIrgsI11vvGRW4LzrE=', -- Senha do funcionário (hash)
+    '112,312,312-31', -- CPF do funcionário
+    '123123', -- Bairro do funcionário
+    '11231-231', -- CEP do funcionário
+    '123123', -- Cidade do funcionário
+    '12', -- Número do endereço do funcionário
+    '21', -- UF do funcionário
+    '23132313', -- Número da carteira de trabalho do funcionário
+    '(81)      -', -- Telefone do funcionário
+    'Admitistrador', -- Cargo do funcionário
+    '11/23/1231', -- Data de aniversário do funcionário
+    '3', -- Nível de acesso do funcionário
+    '123.12' -- Salário do funcionário
+);
+
+-- Criar a base de dados "projeto" se não existir
+CREATE DATABASE IF NOT EXISTS projeto;
+
+-- Selecionar a base de dados "projeto"
+USE projeto;
+
+-- Criar a tabela "cliente"
+CREATE TABLE IF NOT EXISTS cliente (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL,
+    cpf VARCHAR(14) NOT NULL UNIQUE,
+    bairro VARCHAR(100),
+    cep VARCHAR(8) NOT NULL,
+    cidade VARCHAR(100),
+    numero VARCHAR(10),
+    uf CHAR(2),
+    complemento VARCHAR(100),
+    telefone VARCHAR(15)
+);
+
+-- Inserir um cliente com informações aleatórias
+INSERT INTO cliente (nome, email, senha, cpf, bairro, cep, cidade, numero, uf, complemento, telefone)
+VALUES ('João Silva', 'joao.silva@example.com', 'senhaSegura123', '12345678901', 'Centro', '12345678', 'São Paulo', '100', 'SP', 'Apto 101', '11999999999');
+
+CREATE DATABASE IF NOT EXISTS projeto;
+USE projeto;
+
+-- Cria a tabela de histórico de compras
+CREATE TABLE historico_compras (
+    id_compra INT AUTO_INCREMENT PRIMARY KEY,
+    cpf_cliente VARCHAR(14) NOT NULL COMMENT 'CPF do cliente que realizou a compra',
+    data_compra DATETIME NOT NULL COMMENT 'Data e hora da compra',
+    valor_total DECIMAL(10, 2) NOT NULL COMMENT 'Valor total da compra',
+    dinheiro_recebido DECIMAL(10, 2) NOT NULL COMMENT 'Quantidade de dinheiro recebida do cliente',
+    troco DECIMAL(10, 2) NOT NULL COMMENT 'Valor do troco devolvido ao cliente',
+    lista_itens JSON NOT NULL COMMENT 'Lista de itens comprados, armazenada como JSON'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Insere um registro de exemplo na tabela de histórico de compras
+INSERT INTO historico_compras (
+    cpf_cliente, data_compra, valor_total, dinheiro_recebido, troco, lista_itens
+) VALUES (
+    '12345678901', -- CPF do cliente
+    NOW(), -- Data e hora atuais
+    150.75, -- Valor total da compra
+    200.00, -- Dinheiro recebido
+    49.25, -- Troco
+    '[{"item": "Item1", "quantidade": 2}, {"item": "Item2", "quantidade": 1}, {"item": "Item3", "quantidade": 3}]' -- Lista de itens comprados em formato JSON
+);
+
+INSERT INTO funcionario (
+    Id, nome, email, senha, cpf, bairro, cep, cidade, numero, uf, carteira, telefone, cargo, aniversario, nivel_acesso, salario
+) VALUES (
+    '2', -- ID do funcionário (atenção para IDs únicos)
+    'aasdadadadadsadad', -- Nome do funcionário
+    'admin2', -- E-mail do funcionário
+    '5CRdQfkTBDvEmtPvVcSJJsWNlQIrgsI11vvGRW4LzrE=', -- Senha do funcionário (hash)
+    '112,312,312-33', -- CPF do funcionário
+    '123122', -- Bairro do funcionário
+    '11231-232', -- CEP do funcionário
+    '123123', -- Cidade do funcionário
+    '12', -- Número do endereço do funcionário
+    '21', -- UF do funcionário
+    '23132313', -- Número da carteira de trabalho do funcionário
+    '(81)      -', -- Telefone do funcionário
+    'Admitistrador', -- Cargo do funcionário
+    '11/23/1231', -- Data de aniversário do funcionário
+    '3', -- Nível de acesso do funcionário
+    '123.12' -- Salário do funcionário
+);
+
+CREATE TABLE IF NOT EXISTS produto (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL COMMENT 'Nome do produto',
+    preco DECIMAL(10, 2) NOT NULL COMMENT 'Preço do produto',
+    quantidade INT NOT NULL COMMENT 'Quantidade em estoque',
+    unidade_por_compra INT NOT NULL COMMENT 'Unidade por compra',
+    tipo ENUM('Acessorio', 'Eletronico', 'Eletrodomestico', 'Roupa', 'Casa') NOT NULL COMMENT 'Tipo de produto',
+    marca VARCHAR(100) COMMENT 'Marca do produto',
+    peso DECIMAL(10, 2) COMMENT 'Peso do produto (em kg)',
+    altura DECIMAL(10, 2) COMMENT 'Altura do produto (em cm)',
+    largura DECIMAL(10, 2) COMMENT 'Largura do produto (em cm)',
+    descricao TEXT COMMENT 'Descrição do produto'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Inserir um produto com informações fictícias
+INSERT INTO produto (nome, preco, quantidade, unidade_por_compra, tipo, marca, peso, altura, largura, descricao)
+VALUES ('Notebook Exemplo', 2999.99, 50, 1, 'Eletronico', 'Marca Exemplo', 2.5, 2.0, 30.0, 'Um notebook de exemplo com especificações fictícias.');
