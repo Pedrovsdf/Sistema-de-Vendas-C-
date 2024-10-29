@@ -1,0 +1,370 @@
+C:\Users\Sergio\Desktop\C#\Curso\bin\Debug\Curso.exe.config
+C:\Users\Sergio\Desktop\C#\Curso\bin\Debug\Curso.exe
+C:\Users\Sergio\Desktop\C#\Curso\bin\Debug\Curso.pdb
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form1.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Properties.Resources.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.exe
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.pdb
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form2.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form3.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form4.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form5.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form6.resources
+C:\Users\Sergio\Desktop\C#\Curso\obj\Debug\Curso.Form7.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Curso.exe.config
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Curso.exe
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Curso.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.exe
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Login.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.TelaPrincipal.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Cadastro.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.FuncionarioAtivos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Funcionarios.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Vendas_e_Produtos.Vendas.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Vendas_e_Produtos.Devolução.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Vendas_e_Produtos.Estoque.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Vendas_e_Produtos.Produtos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\SGV_Pojeto.config.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Clientes_ativos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\WindowsFormsApp1.Perfil.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.Historico.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.TelaIni.resources
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Curso.exe.config
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Curso.exe
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Curso.pdb
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Cadastro.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Clientes_ativos.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\SGV_Pojeto.config.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Historico.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\WindowsFormsApp1.Perfil.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.TelaIni.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.TelaPrincipal.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Vendas_e_Produtos.Devolução.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Vendas_e_Produtos.Estoque.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Vendas_e_Produtos.Produtos.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Vendas_e_Produtos.Vendas.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.FuncionarioAtivos.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Funcionarios.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Login.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.exe
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.pdb
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.CadastroC.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.exe
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Curso.exe.config
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Curso.exe
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Curso.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Cadastro.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.CadastroC.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Clientes_ativos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\SGV_Pojeto.config.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Historico.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\WindowsFormsApp1.Perfil.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.TelaIni.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.TelaPrincipal.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Vendas_e_Produtos.Devolução.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Vendas_e_Produtos.Estoque.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Vendas_e_Produtos.Produtos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Vendas_e_Produtos.Vendas.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.FuncionarioAtivos.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Funcionarios.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Login.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.CadastroC.resources
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Google.Protobuf.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\MySql.Data.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Buffers.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Memory.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\ZstdSharp.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Google.Protobuf.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Google.Protobuf.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\MySql.Data.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Buffers.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Memory.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\C#\Curso\obj\Debug\Curso.csproj.Up2Date
+C:\Users\Sergio\Desktop\Curso\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Google.Protobuf.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\MySql.Data.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Buffers.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Memory.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\ZstdSharp.dll
+C:\Users\Sergio\Desktop\Curso\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Google.Protobuf.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\MySql.Data.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Buffers.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Memory.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sergio\Desktop\Curso\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergio\Desktop\Curso\obj\Debug\Curso.csproj.Up2Date
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Google.Protobuf.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\MySql.Data.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Buffers.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Memory.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\ZstdSharp.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Google.Protobuf.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Google.Protobuf.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\MySql.Data.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Buffers.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Memory.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sergi\OneDrive\Área de Trabalho\Curso\obj\Debug\Curso.csproj.Up2Date
+D:\Programação\DL CURSO\bin\Debug\Curso.exe.config
+D:\Programação\DL CURSO\bin\Debug\Curso.exe
+D:\Programação\DL CURSO\bin\Debug\Curso.pdb
+D:\Programação\DL CURSO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Programação\DL CURSO\bin\Debug\Google.Protobuf.dll
+D:\Programação\DL CURSO\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programação\DL CURSO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programação\DL CURSO\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programação\DL CURSO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programação\DL CURSO\bin\Debug\MySql.Data.dll
+D:\Programação\DL CURSO\bin\Debug\System.Buffers.dll
+D:\Programação\DL CURSO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Programação\DL CURSO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programação\DL CURSO\bin\Debug\System.IO.Pipelines.dll
+D:\Programação\DL CURSO\bin\Debug\System.Memory.dll
+D:\Programação\DL CURSO\bin\Debug\System.Numerics.Vectors.dll
+D:\Programação\DL CURSO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programação\DL CURSO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programação\DL CURSO\bin\Debug\ZstdSharp.dll
+D:\Programação\DL CURSO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Programação\DL CURSO\bin\Debug\Google.Protobuf.pdb
+D:\Programação\DL CURSO\bin\Debug\Google.Protobuf.xml
+D:\Programação\DL CURSO\bin\Debug\K4os.Compression.LZ4.xml
+D:\Programação\DL CURSO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Programação\DL CURSO\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programação\DL CURSO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programação\DL CURSO\bin\Debug\MySql.Data.xml
+D:\Programação\DL CURSO\bin\Debug\System.Buffers.xml
+D:\Programação\DL CURSO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Programação\DL CURSO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programação\DL CURSO\bin\Debug\System.IO.Pipelines.xml
+D:\Programação\DL CURSO\bin\Debug\System.Memory.xml
+D:\Programação\DL CURSO\bin\Debug\System.Numerics.Vectors.xml
+D:\Programação\DL CURSO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programação\DL CURSO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programação\DL CURSO\obj\Debug\Curso.csproj.AssemblyReference.cache
+D:\Programação\DL CURSO\obj\Debug\Curso.Cadastro.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.CadastroC.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.Clientes_ativos.resources
+D:\Programação\DL CURSO\obj\Debug\SGV_Pojeto.config.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.Historico.resources
+D:\Programação\DL CURSO\obj\Debug\WindowsFormsApp1.Perfil.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.TelaIni.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.TelaPrincipal.resources
+D:\Programação\DL CURSO\obj\Debug\Vendas_e_Produtos.Devolução.resources
+D:\Programação\DL CURSO\obj\Debug\Vendas_e_Produtos.Estoque.resources
+D:\Programação\DL CURSO\obj\Debug\Vendas_e_Produtos.Produtos.resources
+D:\Programação\DL CURSO\obj\Debug\WindowsFormsApp1.Clientes.resources
+D:\Programação\DL CURSO\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+D:\Programação\DL CURSO\obj\Debug\Vendas_e_Produtos.Vendas.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.FuncionarioAtivos.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.Funcionarios.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.Login.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.Properties.Resources.resources
+D:\Programação\DL CURSO\obj\Debug\Curso.csproj.GenerateResource.cache
+D:\Programação\DL CURSO\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+D:\Programação\DL CURSO\obj\Debug\Curso.csproj.Up2Date
+D:\Programação\DL CURSO\obj\Debug\Curso.exe
+D:\Programação\DL CURSO\obj\Debug\Curso.pdb
+D:\Programacao\DL CURSO\bin\Debug\Curso.exe.config
+D:\Programacao\DL CURSO\bin\Debug\Curso.exe
+D:\Programacao\DL CURSO\bin\Debug\Curso.pdb
+D:\Programacao\DL CURSO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Programacao\DL CURSO\bin\Debug\Google.Protobuf.dll
+D:\Programacao\DL CURSO\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programacao\DL CURSO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programacao\DL CURSO\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programacao\DL CURSO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacao\DL CURSO\bin\Debug\MySql.Data.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Buffers.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programacao\DL CURSO\bin\Debug\System.IO.Pipelines.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Memory.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Numerics.Vectors.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programacao\DL CURSO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programacao\DL CURSO\bin\Debug\ZstdSharp.dll
+D:\Programacao\DL CURSO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Programacao\DL CURSO\bin\Debug\Google.Protobuf.pdb
+D:\Programacao\DL CURSO\bin\Debug\Google.Protobuf.xml
+D:\Programacao\DL CURSO\bin\Debug\K4os.Compression.LZ4.xml
+D:\Programacao\DL CURSO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Programacao\DL CURSO\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programacao\DL CURSO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programacao\DL CURSO\bin\Debug\MySql.Data.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Buffers.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programacao\DL CURSO\bin\Debug\System.IO.Pipelines.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Memory.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Numerics.Vectors.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programacao\DL CURSO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programacao\DL CURSO\obj\Debug\Curso.csproj.AssemblyReference.cache
+D:\Programacao\DL CURSO\obj\Debug\Curso.Cadastro.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.CadastroC.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.Clientes_ativos.resources
+D:\Programacao\DL CURSO\obj\Debug\SGV_Pojeto.config.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.Historico.resources
+D:\Programacao\DL CURSO\obj\Debug\WindowsFormsApp1.Perfil.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.TelaIni.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.TelaPrincipal.resources
+D:\Programacao\DL CURSO\obj\Debug\Vendas_e_Produtos.Estoque.resources
+D:\Programacao\DL CURSO\obj\Debug\Vendas_e_Produtos.Produtos.resources
+D:\Programacao\DL CURSO\obj\Debug\WindowsFormsApp1.Clientes.resources
+D:\Programacao\DL CURSO\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+D:\Programacao\DL CURSO\obj\Debug\Vendas_e_Produtos.Vendas.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.FuncionarioAtivos.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.Funcionarios.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.Login.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.Properties.Resources.resources
+D:\Programacao\DL CURSO\obj\Debug\Curso.csproj.GenerateResource.cache
+D:\Programacao\DL CURSO\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+D:\Programacao\DL CURSO\obj\Debug\Curso.csproj.Up2Date
+D:\Programacao\DL CURSO\obj\Debug\Curso.exe
+D:\Programacao\DL CURSO\obj\Debug\Curso.pdb
+D:\Programacao\DL CURSO\obj\Debug\Curso.Devolução.resources
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Curso.exe.config
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Curso.exe
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Curso.pdb
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Google.Protobuf.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\MySql.Data.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Buffers.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Memory.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\ZstdSharp.dll
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Google.Protobuf.pdb
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Google.Protobuf.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\MySql.Data.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Buffers.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Memory.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Evolution\Desktop\Curso final\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.csproj.AssemblyReference.cache
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Cadastro.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.CadastroC.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Clientes_ativos.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\SGV_Pojeto.config.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Historico.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\WindowsFormsApp1.Perfil.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.TelaIni.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.TelaPrincipal.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Devolução.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Vendas_e_Produtos.Estoque.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Vendas_e_Produtos.Produtos.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Vendas_e_Produtos.VendaAtual.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Vendas_e_Produtos.Vendas.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.FuncionarioAtivos.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Funcionarios.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Login.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.Properties.Resources.resources
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.csproj.GenerateResource.cache
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.csproj.Up2Date
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.exe
+C:\Users\Evolution\Desktop\Curso final\obj\Debug\Curso.pdb
